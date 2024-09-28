@@ -4,16 +4,12 @@
 
 ## 目录结构
 
-Directory Structure:
-
-| Path                                 |
-| ------------------------------------ |
-| `/Users/jqh/Desktop/jqh/code/shell/` |
-| `├── qiankun-parent/`                |
-| `│   ├── qiankun-children/`          |
-| `│   └── dist/`                      |
-| `└── shch_web/`                      |
-| `    └── front-web/`                 |
+/Users/jqh/Desktop/jqh/code/shell/
+├── qiankun-parent/
+│ ├── qiankun-children/
+│ └── dist/ (生成于构建后)
+└── shch_web/
+└── front-web/
 
 ## 脚本功能
 
