@@ -4,8 +4,6 @@
 
 ## 目录结构
 
-Directory Structure:
-
 | Path                                 |
 | ------------------------------------ |
 | `/Users/jqh/Desktop/jqh/code/shell/` |
