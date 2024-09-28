@@ -30,6 +30,6 @@
 
 2. **运行脚本**：
    ```bash
-   chmod +x setup_repositories.sh
-   ./setup_repositories.sh
+   chmod +x build.sh
+   ./build.sh
    ```
