@@ -5,11 +5,12 @@
 ## 目录结构
 
 /Users/jqh/Desktop/jqh/code/shell/
-├── qiankun-parent/
-│ ├── qiankun-children/
-│ └── dist/ (构建后生成)
-└── shch_web/
-└── front-web/
+
+- qiankun-parent/
+  - qiankun-children/
+  - dist/ (生成于构建后)
+- shch_web/
+  - front-web/
 
 ## 脚本功能
 
