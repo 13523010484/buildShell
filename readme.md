@@ -6,15 +6,14 @@
 
 Directory Structure:
 
-Directory Structure:
-
+\`\`\`plaintext
 /Users/jqh/Desktop/jqh/code/shell/
-
-- qiankun-parent/
-  \t├── qiankun-children/
-  \t└── dist/ (生成于构建后)
-- shch_web/
-  \t└── front-web/
+├── qiankun-parent/
+│ ├── qiankun-children/
+│ └── dist/ (生成于构建后)
+└── shch_web/
+└── front-web/
+\`\`\`
 
 ## 脚本功能
 
